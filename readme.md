@@ -13,4 +13,10 @@
 - copy link lalu input ke dalam API twilio
 - untuk selengkapnya bisa cek link berikut ["https://medium.com/the-andela-way/build-a-whatsapp-bot-in-10-minutes-using-node-js-and-twilio-9869b443bf5e"](https://medium.com/the-andela-way/build-a-whatsapp-bot-in-10-minutes-using-node-js-and-twilio-9869b443bf5e "All Text")
 
+## About This Bot
+- Coder : Sulton Randovlsky
+- Version : 1.0.0
+- Using : Node.js
+- Created at : 18 Februari 2020
+
 
