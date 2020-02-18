@@ -1,6 +1,0 @@
-API KEY :  GoogleApiKey
-SEARCH ENGINE ID :  SearchEngineID 
-
-// TWILIO KEY
-SID : TwilioSidKey
-AUTH TOKEN : TwilioAuthToken
