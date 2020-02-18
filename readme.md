@@ -1,5 +1,5 @@
 # Wikipedia Whatsapp Bot
-![](https://www.callbell.eu/wp-content/uploads/2019/07/maxresdefault-1080x675.jpg "All Text")
+<img src="https://www.callbell.eu/wp-content/uploads/2019/07/maxresdefault-1080x675.jpg" height="360px" width="340px">
 
 ## Cara Jalanin Botnya (untuk user)
 - Pertama tama save nomor +1 415 523 8886 terlebih dahulu dengan nama sesuka kalian (contoh: WikiTon-Bot)
